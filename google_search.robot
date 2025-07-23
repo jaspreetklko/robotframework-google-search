@@ -34,7 +34,6 @@ Google Search With Filtered Results
         Run Keyword If    ${length} > 0    Append To File   results.txt    ${text}\n
     END
 
-
     Capture Page Screenshot    ${SCREENSHOT}
     Log To Console    Screenshot saved to: ${SCREENSHOT}
     Close Browser

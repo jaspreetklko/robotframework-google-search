@@ -10,6 +10,7 @@ This Robot Framework test case automates a Google search for the term **"robotfr
 - Save the results to a file `results.txt`
 - Take a screenshot of the results page
 
+
 ## ✅ Prerequisites
 
 - [Python](https://www.python.org/downloads/) installed
