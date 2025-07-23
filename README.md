@@ -1,19 +1,27 @@
-# robotframework-google-search
+# Google Search Automation with Robot Framework
 
-This Robot Framework test case automates a Google search for the term **"robotframework"**, extracts non-empty result titles, and saves them to both the console and a text file.
+This project demonstrates a simple web automation test using **Robot Framework** and **SeleniumLibrary**. The test automates a Google search for the term `"robotframework"`, extracts the top visible search result links, logs them in the console, and writes them to a text file.
 
-## 📋 Test Objective
+---
 
-- Open [google.com](https://www.google.com)
-- Search for **robotframework**
-- Extract and print the text of the top search result titles (ignoring empty ones)
-- Save the results to a file `results.txt`
-- Take a screenshot of the results page
+## Features
 
+- Opens Google in a Chrome browser.
+- Searches for the term `"robotframework"`.
+- Captures the top search result links (filtered via anchor tags).
+- Logs links to the console.
+- Saves valid (non-empty) links to `results.txt`.
+- Takes a screenshot of the results page.
 
-## ✅ Prerequisites
+---
 
-- [Python](https://www.python.org/downloads/) installed
-- [Robot Framework](https://robotframework.org/) installed  
-  ```bash
-  pip install robotframework
+## ⚙️ Prerequisites
+
+- Python installed
+- Chrome browser
+- [ChromeDriver](https://sites.google.com/chromium.org/driver/) installed and added to system PATH
+- Install dependencies using pip:
+
+```bash
+pip install robotframework
+pip install robotframework-seleniumlibrary
