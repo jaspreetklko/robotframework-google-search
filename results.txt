@@ -1,0 +1,10 @@
+1. https://robotframework.org/
+2. https://github.com/robotframework/robotframework
+3. https://blog.botcity.dev/2024/01/26/robot-framework/#:~:text=The%20Robot%20Framework%20is%20an,them%20to%20more%20strategic%20projects.
+4. https://testsigma.com/blog/robot-framework-vs-selenium/#:~:text=Selenium%20is%20a%20functional%20test,the%20RPA%20and%20functional%20testing.
+5. https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#:~:text=Robot%20Framework%20is%20a%20Python,under%20the%20Apache%20License%202.0.
+6. https://www.browserstack.com/guide/robot-framework-guide#:~:text=Robot%20Framework%20is%20an%20open,%2C%20integration%2C%20and%20unit%20testing.
+7. https://www.browserstack.com/guide/robot-framework-guide
+8. https://en.wikipedia.org/wiki/Robot_Framework
+9. https://www.tutorialspoint.com/robot_framework/index.htm
+10. https://github.com/robotframework
